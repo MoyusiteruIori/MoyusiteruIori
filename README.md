@@ -1,4 +1,4 @@
-### Hi there 👋
+## Iori
 
 <!--
 **MoyusiteruIori/MoyusiteruIori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a senior student at Tongji University majoring in software engineering. Will start pursuing a master's degree at Tsinghua University SIGS from Sep 2024.
+- I'm currently working on:
+  - An LLM agent system, for my graduation project.
+  - Deep reinforcement learning models for Riichi Mahjong and their downstream applications.
+- How to reach me: y.meng1@outlook.com
+- I don't write Rust, use Arch, or play Genshin Impact.
