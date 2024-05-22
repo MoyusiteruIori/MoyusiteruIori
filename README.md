@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a senior student at Tongji University majoring in software engineering. Will start pursuing a master's degree at Tsinghua University SIGS from Sep 2024.
+I'm a senior student at Tongji University majoring in software engineering. Will start pursuing a master's degree at THU SIGS from Sep 2024.
 - I'm currently working on:
   - An LLM agent system, for my graduation project.
   - Deep reinforcement learning models for Riichi Mahjong and their downstream applications.
