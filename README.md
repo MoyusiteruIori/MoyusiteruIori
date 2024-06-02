@@ -19,5 +19,7 @@ I'm a senior student at Tongji University majoring in software engineering. Will
 - I'm currently working on:
   - An LLM agent system, for my graduation project.
   - Deep reinforcement learning models for Riichi Mahjong and their downstream applications.
+- I'm currently learning:
+  - Reinforcement learning specialization.
 - How to reach me: y.meng1@outlook.com
 - I don't write Rust, use Arch, or play Genshin Impact.
