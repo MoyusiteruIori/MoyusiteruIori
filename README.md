@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a senior student at Tongji University majoring in software engineering. Will start pursuing a master's degree at THU SIGS from Sep 2024.
+I received my B.Eng in Software Engineering from Tongji University, and I will start pursuing a master's degree at Tsinghua SIGS from Sep 2024.
 - I'm currently working on:
-  - An LLM agent system, for my graduation project.
+  - [Minitorch](https://github.com/minitorch)
   - Deep reinforcement learning models for Riichi Mahjong and their downstream applications.
 - I'm currently learning:
-  - Reinforcement learning specialization.
+  - Machine Learning System
+  - Robotics
 - How to reach me: y.meng1@outlook.com
 - I don't write Rust, use Arch, or play Genshin Impact.
