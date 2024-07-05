@@ -22,5 +22,6 @@ I received my B.Eng in Software Engineering from Tongji University, and I will s
 - I'm currently learning:
   - Machine Learning System
   - Robotics
+  - Domain adaptation of LLMs
 - How to reach me: y.meng1@outlook.com
 - I don't write Rust, use Arch, or play Genshin Impact.
