@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I received my B.Eng in Software Engineering from Tongji University, and I will start pursuing a master's degree at Tsinghua SIGS from Sep 2024.
+I received my B.Eng in Software Engineering from Tongji University and am pursuing a master's degree at Tsinghua SIGS.
 - I'm currently working on:
   - UAV control based on LLMs
 - I'm currently learning:
