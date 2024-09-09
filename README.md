@@ -21,5 +21,5 @@ I received my B.Eng in Software Engineering from Tongji University and am pursui
 - I'm currently learning:
   - C++
   - Embodied Intelligence
-- How to reach me: y.meng1@outlook.com
+- How to reach me: mengy24@mails.tsinghua.edu.cn
 - I don't write Rust, use Arch, or play Genshin Impact.
