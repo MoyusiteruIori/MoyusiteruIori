@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 I received my B.Eng in Software Engineering from Tongji University, and I will start pursuing a master's degree at Tsinghua SIGS from Sep 2024.
 - I'm currently working on:
-  - Domain adaptation of LLMs
-  - Deep reinforcement learning models for Riichi Mahjong and their downstream applications.
+  - UAV control based on LLMs
 - I'm currently learning:
-  - Machine Learning System
-  - Domain adaptation of LLMs
+  - C++
+  - Embodied Intelligence
 - How to reach me: y.meng1@outlook.com
 - I don't write Rust, use Arch, or play Genshin Impact.
