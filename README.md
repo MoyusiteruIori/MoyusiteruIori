@@ -20,6 +20,7 @@ I received my B.Eng in Software Engineering from Tongji University and am pursui
   - UAV control based on LLMs
 - I'm currently learning:
   - C++
+  - Robotics
   - Embodied Intelligence
 - How to reach me: mengy24@mails.tsinghua.edu.cn
 - I don't code in Rust, use Arch, or play Genshin Impact.
