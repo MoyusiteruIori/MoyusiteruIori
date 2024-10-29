@@ -16,11 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I received my B.Eng in Software Engineering from Tongji University and am pursuing a master's degree at Tsinghua SIGS.
-- I'm currently working on:
-  - UAV control based on LLMs
-- I'm currently learning:
-  - C++
-  - Robotics
-  - Embodied Intelligence
 - How to reach me: mengy24@mails.tsinghua.edu.cn
 - I don't code in Rust, use Arch, or play Genshin Impact.
