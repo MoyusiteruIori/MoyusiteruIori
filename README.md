@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 I received my B.Eng in Software Engineering from Tongji University and am pursuing a master's degree at Tsinghua SIGS.
 - How to reach me: mengy24@mails.tsinghua.edu.cn
+- I’m interested in:
+  - Efficient Foundation Models
+  - Multimodal Learning
+- I’m currently working on
+  - Token Reduction for Large Vision-Language Models
 - I don't code in Rust, use Arch, or play Genshin Impact.
